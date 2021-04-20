@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "naustin",
+      "name": "Noel Austin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1503072?v=4",
+      "profile": "https://github.com/naustin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Krupakarreddin",
+      "name": "Krupakarreddin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15169411?v=4",
+      "profile": "https://github.com/Krupakarreddin",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Az-DevOps-Agent-On-AKS",
+  "projectOwner": "ganrad",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

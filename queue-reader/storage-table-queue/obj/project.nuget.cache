@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqM+4Qk0LKSowq1/aBFuzffU9imldPv8R25ZkQajz1d3hIDUfsmSfdNsrYK70Ovzcd1yHv3jHPQJInS3uJW7rg==",
+  "success": true,
+  "projectFilePath": "C:\\azdo\\queue-reader\\storage-table-queue\\storage-table-queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niivetic\\.nuget\\packages\\azure.core\\1.8.1\\azure.core.1.8.1.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\azure.storage.common\\12.7.1\\azure.storage.common.12.7.1.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\azure.storage.queues\\12.6.1\\azure.storage.queues.12.6.1.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\system.memory.data\\1.0.1\\system.memory.data.1.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\niivetic\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
