@@ -14,18 +14,15 @@ spec:
     spec:
       containers:
         - name: azdo-agent
-          image: "azdoagent.azurecr.io/azdevopsagent:2.0"
+          image: "<YOUR REGISTRY>.azurecr.io/devops-agent:1.0"
           env:
           - name: AZP_URL
-            value: "https://dev.azure.com/nikolaivetic-containers"
+            value: "https://dev.azure.com/<YOUR PROJECT>"
           - name: AZP_TOKEN
-            value: "5g5epkiwgida25lst6bdgchpnuuysi4btr44kcbaq6v4jlcpo23q"
+            value: "<YOUR DevOps PAT>"
           - name: AZP_POOL
             value: "aks-agent-pool"
           - name: AZP_AGENT_NAME
             valueFrom:
               fieldRef:
                 fieldPath: metadata.name
-#          envFrom:
-#            - secretRef:
-#                name: azdosecret
